@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-	s.name                = 'MiPushSDK'
+	s.name                = 'MiPushSDK_zdl'
 	s.version             = '2.2.6'
 	s.summary             = '小米推送 iOS SDK.'
 	s.homepage            = "http://dev.xiaomi.com"
